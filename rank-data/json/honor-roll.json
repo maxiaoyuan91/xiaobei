@@ -1,6 +1,13 @@
 {
   "version": 1,
-  "updatedAt": "",
-  "members": [],
+  "updatedAt": "2026-10-31T12:17:22.084Z",
+  "members": [
+    {
+      "id": "flyfox",
+      "nickname": "flyfox",
+      "alias": "贝爸",
+      "flowers": 0
+    }
+  ],
   "records": []
 }
