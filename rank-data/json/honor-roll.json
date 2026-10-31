@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-31T12:07:33.209Z",
+  "members": [
+    {
+      "id": "wxid_xiaobei",
+      "nickname": "",
+      "alias": "小贝",
+      "flowers": 3260
+    },
+    {
+      "id": "wxid_ayu",
+      "nickname": "",
+      "alias": "阿雨",
+      "flowers": 1850
+    },
+    {
+      "id": "wxid_mumu",
+      "nickname": "",
+      "alias": "木木",
+      "flowers": 760
+    },
+    {
+      "id": "flyfox",
+      "nickname": "flyfox",
+      "alias": "flyfox",
+      "flowers": 0
+    }
+  ],
+  "records": []
+}
