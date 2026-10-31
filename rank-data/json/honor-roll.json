@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T12:38:44.600Z",
+  "updatedAt": "2026-10-31T12:38:49.457Z",
   "members": [
     {
       "id": "sunshine",
@@ -12,10 +12,18 @@
       "id": "flyfox",
       "nickname": "flyfox",
       "alias": "贝爸",
-      "flowers": 31
+      "flowers": 32
     }
   ],
   "records": [
+    {
+      "id": "r_1793450329457_ihiqg7",
+      "fromId": "sunshine",
+      "toId": "flyfox",
+      "flowers": 1,
+      "reason": "",
+      "at": "2026-10-31T12:38:49.457Z"
+    },
     {
       "id": "r_1793450324600_hj6xu3",
       "fromId": "flyfox",
