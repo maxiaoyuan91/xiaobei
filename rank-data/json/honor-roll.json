@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T13:28:54.514Z",
+  "updatedAt": "2026-10-31T13:29:27.592Z",
   "members": [
     {
       "id": "sunshine",
       "nickname": "sunshine",
       "alias": "贝妈",
-      "flowers": 3
+      "flowers": 0
     },
     {
       "id": "flyfox",
       "nickname": "flyfox",
       "alias": "贝爸",
-      "flowers": 1
+      "flowers": 0
     },
     {
       "id": "OPQ",
@@ -21,22 +21,5 @@
       "flowers": 0
     }
   ],
-  "records": [
-    {
-      "id": "r_1793452704127_e6k434",
-      "fromId": "sunshine",
-      "toId": "sunshine",
-      "flowers": 3,
-      "reason": "辛苦啦",
-      "at": "2026-10-31T13:18:24.127Z"
-    },
-    {
-      "id": "r_1793452687554_h59wit",
-      "fromId": "sunshine",
-      "toId": "flyfox",
-      "flowers": 1,
-      "reason": "",
-      "at": "2026-10-31T13:18:07.554Z"
-    }
-  ]
+  "records": []
 }
