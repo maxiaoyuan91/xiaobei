@@ -1,12 +1,18 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T12:37:38.029Z",
+  "updatedAt": "2026-10-31T12:37:48.276Z",
   "members": [
     {
       "id": "flyfox",
       "nickname": "flyfox",
       "alias": "贝爸",
       "flowers": 21
+    },
+    {
+      "id": "sunshine",
+      "nickname": "sunshine",
+      "alias": "",
+      "flowers": 0
     }
   ],
   "records": [
