@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T13:42:23.080Z",
+  "updatedAt": "2026-10-31T13:43:16.531Z",
   "members": [
     {
       "id": "flyfox",
@@ -18,10 +18,18 @@
       "id": "sunshine",
       "nickname": "sunshine",
       "alias": "贝妈",
-      "flowers": 0
+      "flowers": 1
     }
   ],
   "records": [
+    {
+      "id": "r_1793454196531_6x8xsj",
+      "fromId": "sunshine",
+      "toId": "sunshine",
+      "flowers": 1,
+      "reason": "做饭辛苦了",
+      "at": "2026-10-31T13:43:16.531Z"
+    },
     {
       "id": "r_1793454143080_w80ua9",
       "fromId": "sunshine",
