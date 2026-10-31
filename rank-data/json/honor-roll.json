@@ -1,24 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T13:43:16.531Z",
+  "updatedAt": "2026-10-31T15:33:42.445Z",
   "members": [
     {
       "id": "flyfox",
       "nickname": "flyfox",
       "alias": "贝爸",
-      "flowers": 10
+      "flowers": 10,
+      "avatar": ""
     },
     {
       "id": "OPQ",
       "nickname": "OPQ",
       "alias": "贝贝",
-      "flowers": 2
+      "flowers": 2,
+      "avatar": ""
     },
     {
       "id": "sunshine",
       "nickname": "sunshine",
       "alias": "贝妈",
-      "flowers": 1
+      "flowers": 1,
+      "avatar": ""
     }
   ],
   "records": [
