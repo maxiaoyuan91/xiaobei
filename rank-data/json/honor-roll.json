@@ -1,21 +1,29 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T12:38:10.458Z",
+  "updatedAt": "2026-10-31T12:38:32.250Z",
   "members": [
+    {
+      "id": "sunshine",
+      "nickname": "sunshine",
+      "alias": "",
+      "flowers": 100
+    },
     {
       "id": "flyfox",
       "nickname": "flyfox",
       "alias": "贝爸",
       "flowers": 31
-    },
-    {
-      "id": "sunshine",
-      "nickname": "sunshine",
-      "alias": "",
-      "flowers": 0
     }
   ],
   "records": [
+    {
+      "id": "r_1793450312250_zkdxqb",
+      "fromId": "flyfox",
+      "toId": "sunshine",
+      "flowers": 100,
+      "reason": "",
+      "at": "2026-10-31T12:38:32.250Z"
+    },
     {
       "id": "r_1793450290458_j973rw",
       "fromId": "flyfox",
