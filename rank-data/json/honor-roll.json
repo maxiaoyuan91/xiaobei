@@ -1,15 +1,23 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T12:37:29.696Z",
+  "updatedAt": "2026-10-31T12:37:38.029Z",
   "members": [
     {
       "id": "flyfox",
       "nickname": "flyfox",
       "alias": "贝爸",
-      "flowers": 11
+      "flowers": 21
     }
   ],
   "records": [
+    {
+      "id": "r_1793450258028_qw766v",
+      "fromId": "flyfox",
+      "toId": "flyfox",
+      "flowers": 10,
+      "reason": "",
+      "at": "2026-10-31T12:37:38.029Z"
+    },
     {
       "id": "r_1793450249696_et1pbh",
       "fromId": "flyfox",
