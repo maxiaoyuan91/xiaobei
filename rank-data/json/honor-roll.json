@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T07:43:57.336Z",
+  "updatedAt": "2026-11-01T07:44:39.940Z",
   "members": [
     {
       "id": "flyfox",
@@ -19,7 +19,7 @@
     {
       "id": "sunshine",
       "nickname": "sunshine",
-      "alias": "贝妈",
+      "alias": "",
       "flowers": 4,
       "avatar": "https://cdn.jsdelivr.net/gh/maxiaoyuan91/xiaobei@b6e6df46e996f4cd3c572a376fade8036f929d51/rank-data/avatars/sunshine.png"
     }
