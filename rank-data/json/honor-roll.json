@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T01:31:57.412Z",
+  "updatedAt": "2026-11-01T02:03:36.433Z",
   "members": [
     {
       "id": "flyfox",
@@ -18,10 +18,18 @@
       "id": "OPQ",
       "nickname": "OPQ",
       "alias": "贝贝",
-      "flowers": 2
+      "flowers": 3
     }
   ],
   "records": [
+    {
+      "id": "r_1793498616433_h08kdh",
+      "fromId": "sunshine",
+      "toId": "OPQ",
+      "flowers": 1,
+      "reason": "贝贝吃饭没用手抓",
+      "at": "2026-11-01T02:03:36.433Z"
+    },
     {
       "id": "r_1793496717412_k2ha7d",
       "fromId": "sunshine",
