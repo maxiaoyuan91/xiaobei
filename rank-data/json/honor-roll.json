@@ -1,27 +1,24 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T15:50:03.333Z",
+  "updatedAt": "2026-11-01T01:30:40.907Z",
   "members": [
     {
       "id": "flyfox",
       "nickname": "flyfox",
       "alias": "贝爸",
-      "flowers": 10,
-      "avatar": "https://raw.githubusercontent.com/maxiaoyuan91/xiaobei/meta/rank-data/avatars/flyfox.png?t=1793461153660"
+      "flowers": 10
     },
     {
       "id": "OPQ",
       "nickname": "OPQ",
       "alias": "贝贝",
-      "flowers": 2,
-      "avatar": ""
+      "flowers": 2
     },
     {
       "id": "sunshine",
       "nickname": "sunshine",
       "alias": "贝妈",
-      "flowers": 1,
-      "avatar": "https://raw.githubusercontent.com/maxiaoyuan91/xiaobei/meta/rank-data/avatars/sunshine.png?t=1793461803323"
+      "flowers": 1
     }
   ],
   "records": [
