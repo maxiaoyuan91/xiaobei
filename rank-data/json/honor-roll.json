@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T00:37:03.270Z",
+  "updatedAt": "2026-11-12T00:37:25.411Z",
   "members": [
     {
       "id": "OPQ",
@@ -20,7 +20,7 @@
       "id": "球球",
       "nickname": "球球",
       "alias": "",
-      "flowers": 22,
+      "flowers": 23,
       "avatar": ""
     },
     {
@@ -32,6 +32,14 @@
     }
   ],
   "records": [
+    {
+      "id": "r_1794443845411_ijp7wi",
+      "fromId": "sunshine",
+      "toId": "球球",
+      "flowers": 1,
+      "reason": "自己吃药",
+      "at": "2026-11-12T00:37:25.411Z"
+    },
     {
       "id": "r_1794443823268_td1y2b",
       "fromId": "sunshine",
