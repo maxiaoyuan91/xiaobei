@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T14:33:54.494Z",
+  "updatedAt": "2026-11-16T06:05:02.613Z",
   "members": [
     {
       "id": "OPQ",
@@ -20,7 +20,7 @@
       "id": "球球",
       "nickname": "球球",
       "alias": "",
-      "flowers": 29,
+      "flowers": 28,
       "avatar": ""
     },
     {
@@ -32,6 +32,14 @@
     }
   ],
   "records": [
+    {
+      "id": "r_1794809102612_32kff7",
+      "fromId": "sunshine",
+      "toId": "球球",
+      "flowers": -1,
+      "reason": "弄掉屁兜",
+      "at": "2026-11-16T06:05:02.612Z"
+    },
     {
       "id": "r_1794753234494_5citi0",
       "fromId": "sunshine",
